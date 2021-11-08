@@ -1,0 +1,9 @@
+h1 {
+    background:red;
+    color:greenyellow;
+    width: max-content;
+}
+p {
+    font:italic;
+    color:grey;
+}
