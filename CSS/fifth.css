@@ -1,0 +1,11 @@
+p {
+    background-color:lightblue;
+    opacity:0.5;
+}
+body {
+    background-image: url(/IMAGE/joker.jpg);
+    background-size: cover;
+    background-position: top;
+    margin-right: 21px;
+    background-attachment: scroll;
+}
