@@ -1,0 +1,26 @@
+body {
+    color: green;
+    text-align: center;
+}
+h1 {
+   color: red; 
+}
+
+.one {
+    text-decoration: overline;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 2px orange;
+}
+
+.two {
+    text-decoration: underline;
+    text-transform: lowercase;
+    line-height: 0.1;
+}
+
+.three {
+    text-decoration: line-through;
+    text-transform:uppercase;
+    word-spacing: 5px;
+}
