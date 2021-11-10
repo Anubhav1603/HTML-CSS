@@ -1,0 +1,3 @@
+li {
+    display: inline;/*A display property with a value of "block" results in a line break between each span elements.*/
+}
