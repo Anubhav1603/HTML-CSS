@@ -1,0 +1,17 @@
+ul.a {
+    list-style-type: circle;
+    list-style-position: inside;
+    background: red;
+}
+
+ol.b {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+    background: orange;
+}
+ul li {
+    background: greenyellow;
+}
+ol li {
+    background: yellow;
+}
