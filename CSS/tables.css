@@ -4,3 +4,10 @@ table, th, td {
 table {
     width: 100%;
 }
+tr:hover {
+    background-color: yellow;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
