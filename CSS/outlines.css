@@ -1,5 +1,7 @@
 p {
     outline: 10px solid green;
     border-radius: 5px;
-    padding: 10px;
+    outline-offset: 15px;
+    padding: 0.5px;
+    margin: 100px;
 }
