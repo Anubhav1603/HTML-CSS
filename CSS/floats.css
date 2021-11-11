@@ -1,0 +1,11 @@
+.div1 {
+    float: left;
+    padding: 3px;
+    border: 3px solid green;
+}
+
+.div2 {
+    clear: left;
+    padding: 3px;
+    border: 3px solid green;
+}   
